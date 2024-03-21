@@ -1,4 +1,4 @@
-package Encapsulation;
+package Encapsulation; // this is the package i created in eclipse
 
 public class Person {
 	
