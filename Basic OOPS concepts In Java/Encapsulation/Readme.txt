@@ -9,4 +9,5 @@ we can create a fully encapsulated class by making all data members of that clas
 In this way you have control over data. Lets say you want to set value of an id and that should not be  greater than 100 and also should not be negative. 
 so we could write logic inside the setter method in that way only that data will be stored which we wanted.
 
-It also help us to hide our data because other class will not be able to acces as all our data will be stored in data members and those data members will be private.
+It also help us to hide our data because other class will not be able to directly access as all our data will be stored in data members and those data members will be private. 
+They can only able to access our data via getter or setter methods.
